@@ -3,4 +3,4 @@
 - 👀 I'm learning C, C++ programming languages
 - 🌱 I’m currently working on writing Minishell, a simple version of Bash
 - 📫 How to reach me --> cicekyuzbas@gmail.com <br><br>
- &ensp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyuzbas&layout=compact)](https://github.com/cyuzbas/github-readme-stats)
+ &ensp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyuzbas&layout=compact)](https://github.com/cyuzbas]
