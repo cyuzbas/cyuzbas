@@ -9,7 +9,7 @@
         + 📚  [libft](https://github.com/cyuzbas/Libft): Self coded C Library which contains a few functions of the C standard library as well as some other utility functions <br>
         + 🖨  [ft_printf](https://github.com/cyuzbas/ft_printf): Self-built C printf function<br>
         + 📄  [get_next_line](https://github.com/cyuzbas/get_next_line): Reads one line at the time from a specified file descriptor<br>
-        + 🎇  [fract'ol](https://github.com/cyuzbas/Frat-ol) : This project is about creating graphically beautiful fractals<br>
+        + 🎇  [fract'ol](https://github.com/cyuzbas/Fract-ol) : This project is about creating graphically beautiful fractals<br>
         + 🧪  [pipex](https://github.com/cyuzbas/Pipex): Mimics the usage of UNIX mechanisms with system calls only.<br>
         + 🔢  [push_swap](https://github.com/cyuzbas/push-swap): Sorting data on a stack, with a limited set of instructions, and the smallest number of moves<br>
         + 🖥  [minishell](https://github.com/cyuzbas/Minishell): Simple version of bash (this was a group project with my partner Mathijs Batstra)<br>
