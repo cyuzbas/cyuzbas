@@ -4,7 +4,7 @@
  <br>
 - 👋 Hi, I’m Cicek Yuzbas and I'm student in Codam Coding College
 - 👀 I'm learning C, C++ programming languages
-- 🌱 I’m currently working on Philosophers project, which is a version of famous 'dining philosophers' problem
+- 🌱 I’m currently working on CUB3D project, which is a version of famous "Wolfenstein" first-person shooter video game.
 - 🔭 Recent projects I finished;<br> 
         + 📚  [libft](https://github.com/cyuzbas/Libft): Self coded C Library which contains a few functions of the C standard library as well as some other utility functions <br>
         + 🖨  [ft_printf](https://github.com/cyuzbas/ft_printf): Self-built C printf function<br>
