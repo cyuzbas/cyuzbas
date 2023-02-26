@@ -4,7 +4,7 @@
  <br>
 - 👋 Hi, I’m Cicek Yuzbas and I'm student in Codam Coding College
 - 👀 I'm learning C, C++ programming languages
-- 🌱 I’m currently working on CUB3D project, which is a version of famous "Wolfenstein" first-person shooter video game.
+- 🌱 I’m currently working on [CUB3D](https://github.com/cyuzbas/Cub3D) project, which is a version of famous "Wolfenstein" first-person shooter video game.
 - 🔭 Recent projects I finished;<br> 
         + 📚  [libft](https://github.com/cyuzbas/Libft): Self coded C Library which contains a few functions of the C standard library as well as some other utility functions <br>
         + 🖨  [ft_printf](https://github.com/cyuzbas/ft_printf): Self-built C printf function<br>
@@ -14,5 +14,5 @@
         + 🔢  [push_swap](https://github.com/cyuzbas/push-swap): Sorting data on a stack, with a limited set of instructions, and the smallest number of moves<br>
         + 🖥  [minishell](https://github.com/cyuzbas/Minishell): Simple version of bash (this was a group project with my partner Mathijs Batstra)<br>
         + 🍝  [philosophers](https://github.com/cyuzbas/Philosophers): Solution to a version of famous 'dining philosophers' problem with the use of mutex.<br>
-        + 🗂  [C++ modules](https://github.com/cyuzbas/CPP-Modules) : Developed a solid understanding of C++ programming principles.<br>
+        + 🗂  [C++ modules](https://github.com/cyuzbas/CPP-Modules): Developed a solid understanding of C++ programming principles.<br>
 - 📫 How to reach me --> cicekyuzbas@gmail.com 
