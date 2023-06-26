@@ -13,7 +13,6 @@
         + 🧪  [pipex](https://github.com/cyuzbas/Pipex): Mimics the usage of UNIX mechanisms with system calls only.<br>
         + 🔢  [push_swap](https://github.com/cyuzbas/push-swap): Sorting data on a stack, with a limited set of instructions, and the smallest number of moves<br>
         + 🖥  [minishell](https://github.com/cyuzbas/Minishell): Simple version of bash (this was a group project with my partner Mathijs Batstra)<br>
-        + 🍝  [philosophers](https://github.com/cyuzbas/Philosophers): Solution to a version of famous 'dining philosophers' problem with the use of mutex.<br>
         + 🗂  [C++ modules](https://github.com/cyuzbas/CPP-Modules): Developed a solid understanding of C++ programming principles.<br>
         + 🎮  [CUB3D](https://github.com/cyuzbas/Cub3D) project, which is a version of famous "Wolfenstein" first-person shooter video game.<br>
 - 📫 How to reach me --> cicekyuzbas@gmail.com 
