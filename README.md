@@ -14,5 +14,5 @@
         + 🔢  [push_swap](https://github.com/cyuzbas/push-swap): Sorting data on a stack, with a limited set of instructions, and the smallest number of moves<br>
         + 🖥  [minishell](https://github.com/cyuzbas/Minishell): Simple version of bash (this was a group project with my partner Mathijs Batstra)<br>
         + 🗂  [C++ modules](https://github.com/cyuzbas/CPP-Modules): Developed a solid understanding of C++ programming principles.<br>
-        + 🎮  [CUB3D](https://github.com/cyuzbas/Cub3D) project, which is a version of famous "Wolfenstein" first-person shooter video game.<br>
+        + 🎮  [CUB3D](https://github.com/cyuzbas/Cub3D) project, which is a version of famous "Wolfenstein" first-person shooter video game - Group project with [Hao Wang]( https://github.com/oliviawanghao)<br>
 - 📫 How to reach me --> cicekyuzbas@gmail.com 
